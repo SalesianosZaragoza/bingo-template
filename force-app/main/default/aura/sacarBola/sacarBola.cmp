@@ -1,0 +1,4 @@
+<aura:component controller="ControllerApex">
+    <input type="button" onclick="{!c.sacarBola}" value="Probar"/>
+    <input type="text" aura:id="bola"/>
+</aura:component>	
